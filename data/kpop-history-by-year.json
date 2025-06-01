@@ -1,0 +1,784 @@
+{
+    "1992": [
+      {
+        "title": "난 알아요",
+        "artist": "서태지와 아이들",
+        "composer": "서태지",
+        "lyricist": "서태지",
+        "agency": "반도음반"
+      },
+      {
+        "title": "보이지 않는 사랑",
+        "artist": "신승훈",
+        "composer": "신승훈",
+        "lyricist": "신승훈",
+        "agency": "덕윤산업"
+      },
+      {
+        "title": "세상에 뿌려진 사랑만큼",
+        "artist": "이승환",
+        "composer": "오태호",
+        "lyricist": "오태호",
+        "agency": "서라벌레코드"
+      }
+    ],
+    "1993": [
+      {
+        "title": "널 사랑하니까",
+        "artist": "신승훈",
+        "composer": "신승훈",
+        "lyricist": "신승훈",
+        "agency": "라인기획"
+      },
+      {
+        "title": "하여가",
+        "artist": "서태지와 아이들",
+        "composer": "서태지",
+        "lyricist": "서태지",
+        "agency": "반도음반"
+      },
+      {
+        "title": "핑계",
+        "artist": "김건모",
+        "composer": "김창환",
+        "lyricist": "김창환",
+        "agency": "미디어라인"
+      }
+    ],
+    "1994": [
+      {
+        "title": "이브의 경고",
+        "artist": "박미경",
+        "composer": "천성일",
+        "lyricist": "김창환",
+        "agency": "미디어라인"
+      },
+      {
+        "title": "사랑과 우정 사이",
+        "artist": "피노키오",
+        "composer": "오태호",
+        "lyricist": "오태호",
+        "agency": "발렌타인뮤직코리아"
+      },
+      {
+        "title": "이 밤의 끝을 잡고",
+        "artist": "솔리드",
+        "composer": "김형석, 정재윤",
+        "lyricist": "김혜선",
+        "agency": "뮤직디자인"
+      }
+    ],
+    "1995": [
+      {
+        "title": "잘못된 만남",
+        "artist": "김건모",
+        "composer": "김창환",
+        "lyricist": "김창환",
+        "agency": "미디어라인"
+      },
+      {
+        "title": "이별공식",
+        "artist": "R.ef",
+        "composer": "홍재선",
+        "lyricist": "윤성희",
+        "agency": "뮤직디자인"
+      },
+      {
+        "title": "슬픈 언약식",
+        "artist": "김정민",
+        "composer": "이경섭",
+        "lyricist": "박주연",
+        "agency": "미지음"
+      }
+    ],
+    "1996": [
+      {
+        "title": "Candy",
+        "artist": "H.O.T.",
+        "composer": "유영진",
+        "lyricist": "유영진",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "쿵따리 샤바라",
+        "artist": "클론",
+        "composer": "김창환",
+        "lyricist": "김창환",
+        "agency": "미디어라인"
+      },
+      {
+        "title": "Twist King",
+        "artist": "터보",
+        "composer": "주영훈",
+        "lyricist": "이승호",
+        "agency": "도레미미디어"
+      }
+    ],
+    "1997": [
+      {
+        "title": "I'm Your Girl",
+        "artist": "S.E.S.",
+        "composer": "유영진",
+        "lyricist": "유영진",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "학원별곡",
+        "artist": "젝스키스",
+        "composer": "천성일",
+        "lyricist": "김창환",
+        "agency": "DSP미디어"
+      },
+      {
+        "title": "배반의 장미",
+        "artist": "엄정화",
+        "composer": "주영훈",
+        "lyricist": "주영훈",
+        "agency": "삼성뮤직"
+      }
+    ],
+    "1998": [
+      {
+        "title": "To Heaven",
+        "artist": "조성모",
+        "composer": "이경섭",
+        "lyricist": "이승호",
+        "agency": "지구레코드"
+      },
+      {
+        "title": "내 남자친구에게",
+        "artist": "핑클",
+        "composer": "전준규, 김석찬",
+        "lyricist": "김영아",
+        "agency": "DSP미디어"
+      },
+      {
+        "title": "Couple",
+        "artist": "젝스키스",
+        "composer": "마경식",
+        "lyricist": "장대성",
+        "agency": "DSP미디어"
+      }
+    ],
+    "1999": [
+      {
+        "title": "영원한 사랑",
+        "artist": "핑클",
+        "composer": "주태영",
+        "lyricist": "김영아",
+        "agency": "DSP미디어"
+      },
+      {
+        "title": "어머님께",
+        "artist": "g.o.d",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "와",
+        "artist": "이정현",
+        "composer": "최준영",
+        "lyricist": "최준영",
+        "agency": "팬클럽"
+      }
+    ],
+    "2000": [
+      {
+        "title": "거짓말",
+        "artist": "g.o.d",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "아시나요",
+        "artist": "조성모",
+        "composer": "이경섭",
+        "lyricist": "이승호",
+        "agency": "월드뮤직"
+      },
+      {
+        "title": "성인식",
+        "artist": "박지윤",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      }
+    ],
+    "2001": [
+      {
+        "title": "길",
+        "artist": "g.o.d",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "여자이니까",
+        "artist": "KISS",
+        "composer": "임기훈",
+        "lyricist": "최준영",
+        "agency": "J-엔터컴"
+      },
+      {
+        "title": "새",
+        "artist": "싸이 (Psy)",
+        "composer": "싸이",
+        "lyricist": "싸이",
+        "agency": "YG엔터테인먼트"
+      }
+    ],
+    "2002": [
+      {
+        "title": "No.1",
+        "artist": "보아",
+        "composer": "Sigurd \"Ziggy\" Rosnes",
+        "lyricist": "김영아",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "Perfect Man",
+        "artist": "신화",
+        "composer": "유영진",
+        "lyricist": "유영진, 에릭",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "나쁜 남자",
+        "artist": "비 (Rain)",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      }
+    ],
+    "2003": [
+      {
+        "title": "10 Minutes",
+        "artist": "이효리",
+        "composer": "김도현",
+        "lyricist": "이효리, 김도현",
+        "agency": "DSP미디어"
+      },
+      {
+        "title": "Hug",
+        "artist": "동방신기",
+        "composer": "박창현",
+        "lyricist": "박창현",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "보고싶다",
+        "artist": "김범수",
+        "composer": "박정원",
+        "lyricist": "양재선",
+        "agency": "팀엔터테인먼트"
+      }
+    ],
+    "2004": [
+      {
+        "title": "눈의 꽃",
+        "artist": "박효신",
+        "composer": "이승호",
+        "lyricist": "고마츠 미호 (원곡 번안)",
+        "agency": "젤리피쉬엔터테인먼트"
+      },
+      {
+        "title": "Timeless",
+        "artist": "SG 워너비",
+        "composer": "조영수",
+        "lyricist": "안영민",
+        "agency": "엠넷미디어"
+      },
+      {
+        "title": "It's Raining",
+        "artist": "비 (Rain)",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      }
+    ],
+    "2005": [
+      {
+        "title": "Rising Sun",
+        "artist": "동방신기",
+        "composer": "유한진, 유영진",
+        "lyricist": "유영진",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "겁쟁이",
+        "artist": "버즈",
+        "composer": "윤일상",
+        "lyricist": "이재경",
+        "agency": "산타뮤직"
+      },
+      {
+        "title": "사랑스러워",
+        "artist": "김종국",
+        "composer": "조영수",
+        "lyricist": "조은희",
+        "agency": "투엑스엔터테인먼트"
+      }
+    ],
+    "2006": [
+      {
+        "title": "Partner for Life (네 사람)",
+        "artist": "SG 워너비",
+        "composer": "조영수",
+        "lyricist": "안영민",
+        "agency": "엠넷미디어"
+      },
+      {
+        "title": "U",
+        "artist": "슈퍼주니어",
+        "composer": "켄지 (Kenzie)",
+        "lyricist": "켄지 (Kenzie)",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "사랑 안해",
+        "artist": "백지영",
+        "composer": "조영수",
+        "lyricist": "조은희",
+        "agency": "뮤직웍스"
+      }
+    ],
+    "2007": [
+      {
+        "title": "Tell Me",
+        "artist": "원더걸스",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "거짓말",
+        "artist": "빅뱅",
+        "composer": "G-DRAGON",
+        "lyricist": "G-DRAGON",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "사랑앓이",
+        "artist": "FT아일랜드",
+        "composer": "한성호",
+        "lyricist": "한성호",
+        "agency": "FNC엔터테인먼트"
+      }
+    ],
+    "2008": [
+      {
+        "title": "Nobody",
+        "artist": "원더걸스",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "하루하루",
+        "artist": "빅뱅",
+        "composer": "G-DRAGON",
+        "lyricist": "G-DRAGON",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "주문 (MIROTIC)",
+        "artist": "동방신기",
+        "composer": "유영진, Yoo Han Jin",
+        "lyricist": "유영진",
+        "agency": "SM엔터테인먼트"
+      }
+    ],
+    "2009": [
+      {
+        "title": "Gee",
+        "artist": "소녀시대",
+        "composer": "Kenzie",
+        "lyricist": "이지윤",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "Sorry, Sorry",
+        "artist": "슈퍼주니어",
+        "composer": "유영진",
+        "lyricist": "유영진",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "I Don't Care",
+        "artist": "2NE1",
+        "composer": "TEDDY, Kush",
+        "lyricist": "TEDDY, Kush",
+        "agency": "YG엔터테인먼트"
+      }
+    ],
+    "2010": [
+      {
+        "title": "Bad Girl Good Girl",
+        "artist": "miss A",
+        "composer": "박진영",
+        "lyricist": "박진영",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "죽어도 못 보내",
+        "artist": "2AM",
+        "composer": "방시혁",
+        "lyricist": "방시혁",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "Oh!",
+        "artist": "소녀시대",
+        "composer": "김정배",
+        "lyricist": "김정배",
+        "agency": "SM엔터테인먼트"
+      }
+    ],
+    "2011": [
+      {
+        "title": "롤리폴리",
+        "artist": "티아라",
+        "composer": "신사동호랭이",
+        "lyricist": "신사동호랭이, 최규성",
+        "agency": "MBK엔터테인먼트"
+      },
+      {
+        "title": "I Am The Best",
+        "artist": "2NE1",
+        "composer": "TEDDY",
+        "lyricist": "TEDDY",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "좋은 날",
+        "artist": "아이유",
+        "composer": "이민수",
+        "lyricist": "김이나",
+        "agency": "로엔엔터테인먼트"
+      }
+    ],
+    "2012": [
+      {
+        "title": "강남스타일",
+        "artist": "싸이 (Psy)",
+        "composer": "유건형, 싸이",
+        "lyricist": "싸이",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "Fantastic Baby",
+        "artist": "빅뱅",
+        "composer": "TEDDY, G-DRAGON",
+        "lyricist": "TEDDY, G-DRAGON",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "벚꽃 엔딩",
+        "artist": "버스커 버스커",
+        "composer": "장범준",
+        "lyricist": "장범준",
+        "agency": "청춘뮤직"
+      }
+    ],
+    "2013": [
+      {
+        "title": "Growl (으르렁)",
+        "artist": "EXO",
+        "composer": "유영진, 신혁",
+        "lyricist": "서지음",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "빠빠빠",
+        "artist": "크레용팝",
+        "composer": "김유민",
+        "lyricist": "김유민",
+        "agency": "크롬엔터테인먼트"
+      },
+      {
+        "title": "Bounce",
+        "artist": "조용필",
+        "composer": "조용필",
+        "lyricist": "조용필",
+        "agency": "YPC프로덕션"
+      }
+    ],
+    "2014": [
+      {
+        "title": "Some",
+        "artist": "소유, 정기고",
+        "composer": "김도훈, Xepy",
+        "lyricist": "김도훈, Xepy",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "title": "눈, 코, 입",
+        "artist": "태양",
+        "composer": "TEDDY, DEE.P",
+        "lyricist": "TEDDY, 태양",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "야생화",
+        "artist": "박효신",
+        "composer": "박효신, 정재일",
+        "lyricist": "박효신",
+        "agency": "글러브엔터테인먼트"
+      }
+    ],
+    "2015": [
+      {
+        "title": "Bang Bang Bang",
+        "artist": "빅뱅",
+        "composer": "TEDDY, G-DRAGON",
+        "lyricist": "TEDDY, G-DRAGON",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "Call Me Baby",
+        "artist": "EXO",
+        "composer": "LDN Noise, Teddy Riley 외",
+        "lyricist": "조윤경",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "스물셋",
+        "artist": "아이유",
+        "composer": "아이유, 이종훈",
+        "lyricist": "아이유",
+        "agency": "카카오M"
+      }
+    ],
+    "2016": [
+      {
+        "title": "CHEER UP",
+        "artist": "TWICE",
+        "composer": "블랙아이드필승",
+        "lyricist": "블랙아이드필승",
+        "agency": "JYP엔터테인먼트"
+      },
+      {
+        "title": "Rough (시간을 달려서)",
+        "artist": "여자친구",
+        "composer": "이기, 용배",
+        "lyricist": "서지음",
+        "agency": "쏘스뮤직"
+      },
+      {
+        "title": "피 땀 눈물",
+        "artist": "방탄소년단",
+        "composer": "Pdogg, 방시혁 외",
+        "lyricist": "방탄소년단, 방시혁",
+        "agency": "빅히트뮤직"
+      }
+    ],
+    "2017": [
+      {
+        "title": "DNA",
+        "artist": "방탄소년단",
+        "composer": "방탄소년단, 방시혁",
+        "lyricist": "방탄소년단, 방시혁",
+        "agency": "빅히트뮤직"
+      },
+      {
+        "title": "빨간 맛 (Red Flavor)",
+        "artist": "레드벨벳",
+        "composer": "Daniel Caesar, Ludwig Lindell",
+        "lyricist": "켄지 (Kenzie)",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "에너제틱",
+        "artist": "워너원",
+        "composer": "FlowBlow",
+        "lyricist": "후이(펜타곤)",
+        "agency": "YMC엔터테인먼트"
+      }
+    ],
+    "2018": [
+      {
+        "title": "Love Scenario",
+        "artist": "iKON",
+        "composer": "B.I, Millennium",
+        "lyricist": "B.I",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "뚜두뚜두 (DDU-DU DDU-DU)",
+        "artist": "BLACKPINK",
+        "composer": "TEDDY",
+        "lyricist": "TEDDY",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "FAKE LOVE",
+        "artist": "방탄소년단",
+        "composer": "방탄소년단, 방시혁",
+        "lyricist": "방탄소년단, 방시혁",
+        "agency": "빅히트뮤직"
+      }
+    ],
+    "2019": [
+      {
+        "title": "작은 것들을 위한 시 (Boy With Luv)",
+        "artist": "방탄소년단",
+        "composer": "방탄소년단, 방시혁",
+        "lyricist": "방탄소년단, 방시혁",
+        "agency": "빅히트뮤직"
+      },
+      {
+        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "artist": "AKMU (악동뮤지션)",
+        "composer": "이찬혁",
+        "lyricist": "이찬혁",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "HIP",
+        "artist": "마마무",
+        "composer": "김도훈",
+        "lyricist": "김도훈, 화사",
+        "agency": "RBW"
+      }
+    ],
+    "2020": [
+      {
+        "title": "Dynamite",
+        "artist": "방탄소년단",
+        "composer": "David Stewart, Jessica Agombar",
+        "lyricist": "David Stewart, Jessica Agombar",
+        "agency": "빅히트뮤직"
+      },
+      {
+        "title": "아무노래",
+        "artist": "지코 (ZICO)",
+        "composer": "지코",
+        "lyricist": "지코",
+        "agency": "KOZ엔터테인먼트"
+      },
+      {
+        "title": "에잇(8)",
+        "artist": "아이유 (Feat. SUGA)",
+        "composer": "아이유, SUGA",
+        "lyricist": "아이유, SUGA",
+        "agency": "카카오M"
+      }
+    ],
+    "2021": [
+      {
+        "title": "Butter",
+        "artist": "방탄소년단",
+        "composer": "Jenna Andrews 외",
+        "lyricist": "방탄소년단 외",
+        "agency": "빅히트뮤직"
+      },
+      {
+        "title": "Next Level",
+        "artist": "aespa",
+        "composer": "마크스 (Marz) 외",
+        "lyricist": "유건형",
+        "agency": "SM엔터테인먼트"
+      },
+      {
+        "title": "Celebrity",
+        "artist": "아이유",
+        "composer": "라이언 전",
+        "lyricist": "아이유",
+        "agency": "EDAM엔터테인먼트"
+      }
+    ],
+    "2022": [
+      {
+        "title": "LOVE DIVE",
+        "artist": "IVE",
+        "composer": "서지음, 라이언 전",
+        "lyricist": "서지음",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "title": "TOMBOY",
+        "artist": "(여자)아이들",
+        "composer": "소연, Pop Time",
+        "lyricist": "소연",
+        "agency": "큐브엔터테인먼트"
+      },
+      {
+        "title": "Attention",
+        "artist": "뉴진스",
+        "composer": "250",
+        "lyricist": "민희진",
+        "agency": "ADOR"
+      }
+    ],
+    "2023": [
+      {
+        "title": "Ditto",
+        "artist": "뉴진스",
+        "composer": "250",
+        "lyricist": "민지 (뉴진스), 혜인 (뉴진스)",
+        "agency": "ADOR"
+      },
+      {
+        "title": "I AM",
+        "artist": "IVE",
+        "composer": "라이언 전",
+        "lyricist": "서지음",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "title": "Cupid",
+        "artist": "Fifty Fifty",
+        "composer": "Adam Von Mentzer 외",
+        "lyricist": "Adam Von Mentzer 외",
+        "agency": "ATTRAKT"
+      }
+    ],
+    "2024": [
+      {
+        "title": "퀸카 (Queencard)",
+        "artist": "(여자)아이들",
+        "composer": "소연",
+        "lyricist": "소연",
+        "agency": "큐브엔터테인먼트"
+      },
+      {
+        "title": "Seven",
+        "artist": "정국 (Feat. Latto)",
+        "composer": "Jonas Jeberg 외",
+        "lyricist": "Jonas Jeberg 외",
+        "agency": "빅히트뮤직"
+      },
+      {
+        "title": "Spicy",
+        "artist": "aespa",
+        "composer": "윤상, 이민수",
+        "lyricist": "이민수, 감사합니다",
+        "agency": "SM엔터테인먼트"
+      }
+    ],
+    "2025": [
+      {
+        "title": "Unforgiven",
+        "artist": "르세라핌",
+        "composer": "13 (Score) 외",
+        "lyricist": "김이나 외",
+        "agency": "쏘스뮤직"
+      },
+      {
+        "title": "꽃 (Flower)",
+        "artist": "지수 (BLACKPINK)",
+        "composer": "24, VVN",
+        "lyricist": "빈지노 외",
+        "agency": "YG엔터테인먼트"
+      },
+      {
+        "title": "Super Shy",
+        "artist": "뉴진스",
+        "composer": "Franklin 외",
+        "lyricist": "민희진 외",
+        "agency": "ADOR"
+      }
+    ]
+  }
